@@ -9,3 +9,9 @@ iyiyim sen nasısın
 ben de iyiyim teşekkür ederim
 
 sen nasısın iyi misin nasıl gidiyor 
+
+
+
+değişiklik yapılıyor 
+commit ediliyor 
+sync changes denilip değişiklikler tamamlanıyor 
