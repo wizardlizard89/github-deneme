@@ -15,3 +15,6 @@ sen nasısın iyi misin nasıl gidiyor
 değişiklik yapılıyor 
 commit ediliyor 
 sync changes denilip değişiklikler tamamlanıyor 
+
+
+daha sonra tekrar girdiğinde pull push kısmından sync dediğinde bütün değişiklikler gelmiş olacaktır
